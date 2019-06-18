@@ -1,11 +1,11 @@
 # Site settings
 author: Matthew DeBlock
-title: 
+title: Pure Brew Analytics
 header-img: img/home-bg.png
 email: matt_deblock@yahoo.com
 copyright_name: Matthew DeBlock
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Pure Brew Analytics
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mattdeblock-lv
