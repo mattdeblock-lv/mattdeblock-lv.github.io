@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why become a Data Scientist?"
-date:       2019-07-04 14:45:03 +0000
+date:       2019-07-04 10:45:04 -0400
 permalink:  why_become_a_data_scientist
 ---
 
